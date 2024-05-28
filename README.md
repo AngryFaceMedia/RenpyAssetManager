@@ -27,6 +27,8 @@ The current todo list is as follows:
 - [x] Asset Viewer
   - [ ] Clean up code
   - [ ] Turn more things into reusable components
+  - [ ] Make action buttons usable
+  - [ ] Add copy button to file name & path
   - [ ] Add support for audio
   - [ ] Add support for movies
 - [ ] Naming Tool
